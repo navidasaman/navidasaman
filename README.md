@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi there! 👋
+### I'm [_Navida Saman_](https://navidasaman.github.io/navidasaman-web-portfolio/)
 
-<!--
-**navidasaman/navidasaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> ••• I am a Fullstack Developer residing in Greater Metropolitan Area Gothenburg.
+> 
+> ••• I have a _Degree of Bachelor of Science with a major in Informatics (180 credits)_
+>
+> ••• I am fascinated and passionate about creating innovative and user-friendly applications that seamlessly integrate frontend and backend technologies.
+>
+> 🦾 My ambition is to grow. I have strong foundation and interest in various programming languages, frameworks and libraries which allows me to tackle the challenges and to continuously learn new things to build and deliver high-quality and scalable software solutions. I am dedicated to staying current with the latest technologies and best practices in the industry to continuously improve and enhance my skills as a developer.
 
-Here are some ideas to get you started:
+### [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/navidasaman)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
