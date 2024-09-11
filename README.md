@@ -16,5 +16,5 @@
     <img src="https://skillicons.dev/icons?i=html,css,java,react,typescript,javascript,mysql,vscode,github,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=python,php,cpp,bootstrap,d3,androidstudio,jest,postman,pycharm,regex,sass," />
 </div>
-
-
+<br>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=navidasaman&theme=cobalt&card_width=610" alt="GitHub Streak" /></a>
