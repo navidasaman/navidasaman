@@ -11,4 +11,10 @@
 
 ### [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/navidasaman) [<img alt="LinkedIn" src="https://img.shields.io/badge/🌐_Web_Portfolio-%230E76A8.svg?style=for-the-badge" />](https://navidasaman.github.io/navidasaman-web-portfolio) 
 
+<br>
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=html,css,java,react,typescript,javascript,mysql,vscode,github,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=python,php,cpp,bootstrap,d3,androidstudio,jest,postman,pycharm,regex,sass," />
+</div>
+
 
