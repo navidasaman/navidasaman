@@ -11,13 +11,19 @@
 
 ### [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/navidasaman) [<img alt="LinkedIn" src="https://img.shields.io/badge/🌐_Web_Portfolio-%230E76A8.svg?style=for-the-badge" />](https://navidasaman.github.io/navidasaman-web-portfolio) 
 
-<br>
-<div align="left">
+
+<div align="center">
+
+## Skills & Stats
+
+</div>
+
+<div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,java,react,typescript,javascript,mysql,vscode,github,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=python,php,cpp,bootstrap,d3,androidstudio,jest,postman,pycharm,regex,sass," />
 </div>
 <br>
-<div text-align="center">
+<div align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=navidasaman&theme=cobalt&card_width=610" alt="GitHub Streak" /></a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navidasaman&hide_progress=true&theme=github_dark&show_icons=true&card_width=610)
